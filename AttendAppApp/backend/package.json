@@ -18,6 +18,7 @@
         "mysql2": "latest"
     },
     "devDependencies": {
+        "sequelize": "6.6.5",
         "bcrypt": "latest",
         "sequelize-cli": "6.2.0",
         "express": "4.17.1"
